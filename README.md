@@ -27,4 +27,4 @@ Use the `ft_printf.pdf` to get started.
    ```js
    cd ft_printf && make
    ```
-
+3. compile your program with libftprintf.a
