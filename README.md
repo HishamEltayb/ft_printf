@@ -21,7 +21,7 @@ Use the `ft_printf.pdf` to get started.
 
 1. Clone the repo
    ```sh
-   git clone git@github.com:HishamEltayb/ft_printf.git
+   git clone https://github.com/HishamEltayb/ft_printf.git
    ```
 2. Makefile
    ```js
